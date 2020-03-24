@@ -7,7 +7,7 @@ route::view('/view','welcome', ['id'=> 'teste']);
 
 
 //route::get('/view', function(){
-    return view('welcome');
+ //   return view('welcome');
 //});
 
 // redirecionamento de rotas mais limpo que o outro, o abaixo
